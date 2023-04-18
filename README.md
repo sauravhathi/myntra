@@ -1,38 +1,104 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Myntra project - Frontend
 
-First, run the development server:
+## Description
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+Myntra is a e-commerce website where you can buy clothes, shoes etc. This project is a clone of Myntra website. This project is built using Next.js, React, Hooks, Context API, CSS, HTML.
+
+## Tech Stack
+
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [Context API](https://reactjs.org/docs/context.html)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+## Features
+
+- [x] Search
+- [x] Sort
+- [x] Filter
+- [x] Wishlist
+- [x] Bag
+- [x] Product Details
+- [x] Responsive
+
+## Screenshots
+
+
+
+## Demo
+
+
+
+## Project Structure
+
+```
+myntra/
+├── components/
+│   ├── Header.js
+│   ├── Footer.js
+│   ├── Product/
+│   │   ├── Products.js
+│   │   ├── Product.container.js
+│   │   ├── ProductCard.js
+│   |   └── ProductDetails.js
+│   ├── Search/
+│   │   ├── Search.js
+│   │   ├── Search.bash.js
+│   │   ├── AppContext.js
+│   ├── Sort.js
+│   ├── Main.js
+│   ├── Wishlist.js
+│   ├── Bag.js
+├── pages/
+│   ├── index.js
+│   ├── products/
+│   │   ├── index.js
+│   │   ├── [id].js
+├── public/
+│   ├── images/
+│   │   ├── logo.png
+│   │   └── ...
+│   ├── css/
+│   │   ├── global.css
+│   │   └── ...
+│   └── ...
+├── lib/
+│   ├── api.js
+│   └── ...
+├── utils/
+│   ├── constants.js
+│   └── ...
+├── next.config.js
+└── package.json
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Project setup
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```bash
+npm install
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Compiles and hot-reloads for development
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Compiles and minifies for production
 
-## Learn More
+```
+npm run build
+```
 
-To learn more about Next.js, take a look at the following resources:
+## Run your tests
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+npm run test
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Author
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[Saurav Hathi](https://github.com/sauravhathi)
