@@ -40,6 +40,10 @@ Myntra is a e-commerce website where you can buy clothes, shoes etc. This projec
 ### Search Bash
 ![image](https://user-images.githubusercontent.com/61316762/232858947-36135d04-8de8-4333-8331-1ba66cae24dd.png)
 
+### Stock
+so here under this stock is bacially having two categories, first one is "only few left" and another one is "in stock" which has been implemented in the code as if the product is less than 5 then it will show "only few left" and if more than that then it will show "in stock". 
+![image](https://user-images.githubusercontent.com/61316762/232864526-a0568c03-88dd-4158-a59b-eaaa6846cbdb.png)
+
 ## Filter
 ### Gender
 ![image](https://user-images.githubusercontent.com/61316762/232859109-082b1239-9b2a-4b33-b5d0-3a82b8b86f3b.png)
