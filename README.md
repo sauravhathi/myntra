@@ -5,6 +5,9 @@
 
 Myntra is a e-commerce website where you can buy clothes, shoes etc. This project is a clone of Myntra website. This project is built using Next.js, React, Hooks, Context API, CSS, HTML.
 
+## Demo
+### https://myntra-gocommet.vercel.app/
+
 ## Tech Stack
 
 - [Next.js](https://nextjs.org/)
@@ -29,11 +32,40 @@ Myntra is a e-commerce website where you can buy clothes, shoes etc. This projec
 
 ## Screenshots
 
+![image](https://user-images.githubusercontent.com/61316762/232858752-d11e95c6-54cc-41fb-a3d2-3be99797a9c6.png)
 
+### Header
+![image](https://user-images.githubusercontent.com/61316762/232858851-adcc0f24-43bd-4ce4-b90a-0a9e5ade4c7a.png)
 
-## Demo
+### Search Bash
+![image](https://user-images.githubusercontent.com/61316762/232858947-36135d04-8de8-4333-8331-1ba66cae24dd.png)
 
+## Filter
+### Gender
+![image](https://user-images.githubusercontent.com/61316762/232859109-082b1239-9b2a-4b33-b5d0-3a82b8b86f3b.png)
 
+### Brand
+![image](https://user-images.githubusercontent.com/61316762/232859154-da67ddd4-0f47-4b19-b03b-3f12bf983242.png)
+
+### Price
+![image](https://user-images.githubusercontent.com/61316762/232859229-8f8ee403-8b30-4817-af07-86b02e9fc390.png)
+
+### Color
+![image](https://user-images.githubusercontent.com/61316762/232859315-69811f9c-42a7-42e0-aefd-932fb10b4354.png)
+
+### Discount
+![image](https://user-images.githubusercontent.com/61316762/232859401-b83023a0-2afe-4da2-8bf5-6e53bb3b6a15.png)
+
+## Show more button
+![image](https://user-images.githubusercontent.com/61316762/232859581-5a457eb2-8f46-472a-9786-b0d3c24c8db2.png)
+
+## Search
+
+![image](https://user-images.githubusercontent.com/61316762/232859689-5fc41033-e409-48a5-8f4a-b3367aad5ab1.png)
+
+## Product Card
+
+![image](https://user-images.githubusercontent.com/61316762/232859891-75d1e784-84e6-43cd-9dcc-b8d1ae2b1c83.png)
 
 ## Project Structure
 
