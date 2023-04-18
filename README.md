@@ -16,13 +16,16 @@ Myntra is a e-commerce website where you can buy clothes, shoes etc. This projec
 
 ## Features
 
+- [x] Header
 - [x] Search
-- [x] Sort
-- [x] Filter
-- [x] Wishlist
-- [x] Bag
-- [x] Product Details
-- [x] Responsive
+- [x] Sort ❌
+- [x] Filter ❌
+- [x] Filter (show more)
+- [x] Wishlist ❌
+- [x] Bag ❌
+- [x] Product Details ❌
+- [x] Footer
+- [x] Responsive ❌
 
 ## Screenshots
 
