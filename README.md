@@ -6,7 +6,7 @@
 Myntra is a e-commerce website where you can buy clothes, shoes etc. This project is a clone of Myntra website. This project is built using Next.js, React, Hooks, Context API, CSS, HTML.
 
 ## Demo
-### https://myntra-gocommet.vercel.app/
+### https://myyntra-gocommett.vercel.app/
 
 ## Tech Stack
 
